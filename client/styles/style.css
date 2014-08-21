@@ -67,6 +67,7 @@ h1 {
 .link img {
   float: left;
   margin: 0 5px;
+  margin-top: 18px;
 }
 
 .link .visits {
